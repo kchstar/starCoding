@@ -12,4 +12,4 @@ const cheapFruits = fruits.filter(()=>{
         return false; 
 });
 
-console.log(cheapFruits);
+console.log(cheapFruits);-
